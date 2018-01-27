@@ -10,8 +10,9 @@ Some are in Jupyter (IPython) notebooks, some in `.py` files. You can view the f
 
 |Logic and Number Puzzles|
 |---|
-|[Advent of Code 2017](https://github.com/norvig/pytudes/blob/master/ipynb/Advent%202017.ipynb)<br>*Puzzle site with a coding puzzle each day for Advent 2017; currently ongoing.*|
+|[Advent of Code 2017](https://github.com/norvig/pytudes/blob/master/ipynb/Advent%202017.ipynb)<br>*Puzzle site with a coding puzzle each day for Advent 2017.*|
 |[Advent of Code 2016](https://github.com/norvig/pytudes/blob/master/ipynb/Advent%20of%20Code.ipynb)<br>*Puzzle site with a coding puzzle each day for Advent 2016*.|
+|[The Devil and the Coin Flip Game](https://github.com/norvig/pytudes/blob/master/ipynb/Coin%20Flip.ipynb)<br>*How to beat the Devil at his own game.*|
 |[Translating English Sentences into Propositional Logic Statements](https://github.com/norvig/pytudes/blob/master/ipynb/PropositionalLogic.ipynb)<br>*Automatically converting informal English sentences into formal Propositional Logic.*|
 |[The Puzzle of the Misanthropic Neighbors](https://github.com/norvig/pytudes/blob/master/ipynb/Mean%20Misanthrope%20Density.ipynb)<br>*How crowded will this neighborhood be, if nobody wants to live next door to anyone else?*|
 |[Countdown to 2016](https://github.com/norvig/pytudes/blob/master/ipynb/Countdown.ipynb)<br>*Solving the equation 10 _ 9 _ 8 _ 7 _ 6 _ 5 _ 4 _ 3 _ 2 _ 1 = 2016. From an Alex Bellos puzzle.*|
@@ -70,6 +71,6 @@ Some are in Jupyter (IPython) notebooks, some in `.py` files. You can view the f
 # Etudes for Programmers
 
 I got the idea for the "etudes" part of the name from this [1978 book by Charles Wetherell](https://books.google.com/books/about/Etudes_for_programmers.html?id=u89WAAAAMAAJ)
-that was very influential to me when I was learning to program.
+that was very influential to me when I was first learning to program.
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51ZnZH29dvL._SX394_BO1,204,203,200_.jpg)
